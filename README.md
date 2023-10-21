@@ -1,6 +1,6 @@
 # CRYPTO-ZOMBIE-GAME
 
-Crypto Zombie is a decentralized application (DApp) game built on the Ethereum blockchain using Solidity and the ERC-721 standard for non-fungible tokens (NFTs). In this game, you create, collect, and battle unique zombies while learning about various concepts in smart contract development.
+Crypto Zombie is a decentralized application (DApp) game built on the Ethereum blockchain using Solidity and the ERC-721 standard. In this game, you create, collect, and battle unique zombies while learning about various concepts in smart contract development.
 
 ## Table of Contents
 
