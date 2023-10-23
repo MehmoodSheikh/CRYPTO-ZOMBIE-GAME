@@ -94,4 +94,4 @@ This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md)
 
 Happy gaming and learning! 🧟‍♂️🚀
 
-For more information, visit the [Crypto Zombie](https://cryptozombie.net/) website.
+For more information, visit the [Crypto Zombie](https://cryptozombies.io/)https://cryptozombies.io//) website.
